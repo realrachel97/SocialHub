@@ -21,6 +21,4 @@ Around features user-friendly webpages to create, browse, and search posts with 
 
 Around uses a scalable web service in Go for managing user posts and account information. Elasticsearch provides advanced search features for posts, and the app is deployed on Google App Engine for scalability.
 
-### Demo
 
-https://user-images.githubusercontent.com/92890707/189497598-2feb3a39-8cf4-4aa5-a4aa-033f962dface.mp4
